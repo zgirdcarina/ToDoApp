@@ -1,0 +1,17 @@
+.title{
+    color: lightsalmon;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.todo{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: left;
+    margin-top: 2px;
+    margin-bottom: 1px;
+}
